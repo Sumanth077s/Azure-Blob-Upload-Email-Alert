@@ -56,9 +56,15 @@ This solution removes the need for manual monitoring of cloud storage and ensure
 ---
 
 ## 📸 Screenshots
-- Storage account with `uploads` container.  
-- Logic App workflow in Designer.  
-- Example email received.  
+- Storage account with `uploads` container.
+-  <img width="1911" height="597" alt="image" src="https://github.com/user-attachments/assets/1cc96e8b-e3ab-449d-b41e-aa257f9b6d8a" />
+
+- Logic App workflow in Designer.
+- <img width="1450" height="885" alt="image" src="https://github.com/user-attachments/assets/0b37ee61-066c-4a99-a65f-07e747142eee" />
+
+- Example email received.
+- <img width="1347" height="615" alt="image" src="https://github.com/user-attachments/assets/5158102a-4138-440f-b39f-4be194658a3a" />
+
 
 ---
 
